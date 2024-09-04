@@ -7,7 +7,7 @@ Questo progetto implementa il classico gioco di dadi Yathzee, in cui i giocatori
 - Tiri fino a 3 volte per turno
 - Diverse combinazioni per accumulare punti: full, scala, tris, poker, ecc.
 - Conteggio automatico del punteggio
-- Gestione di più giocatori
+- Gioco contro il computer
 
 ## Come eseguire il progetto
 
